@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0086-partition-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
