@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
