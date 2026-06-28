@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 ## Stack
 |  |
 | ------- |
