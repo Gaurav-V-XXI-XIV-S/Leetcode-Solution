@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
