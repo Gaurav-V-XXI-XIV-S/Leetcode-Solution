@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
