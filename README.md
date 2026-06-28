@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
