@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,8 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
