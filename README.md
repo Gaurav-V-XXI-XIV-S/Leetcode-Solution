@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
