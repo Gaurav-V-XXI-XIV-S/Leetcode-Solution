@@ -293,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
