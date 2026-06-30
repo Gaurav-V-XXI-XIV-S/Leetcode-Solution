@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1068-product-sales-analysis-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
