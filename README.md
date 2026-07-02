@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
