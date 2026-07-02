@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -375,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0164-maximum-gap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
