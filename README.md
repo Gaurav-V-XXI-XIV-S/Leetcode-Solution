@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -281,10 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -317,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
