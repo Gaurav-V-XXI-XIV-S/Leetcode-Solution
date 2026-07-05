@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 ## Stack
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
