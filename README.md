@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [1288-remove-covered-intervals](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
