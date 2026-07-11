@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
