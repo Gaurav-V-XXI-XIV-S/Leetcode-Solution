@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
