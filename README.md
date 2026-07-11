@@ -105,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
 | ------- |
