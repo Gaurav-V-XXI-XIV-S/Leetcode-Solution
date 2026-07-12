@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
+| [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
