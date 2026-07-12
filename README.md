@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
+| [0799-champagne-tower](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
