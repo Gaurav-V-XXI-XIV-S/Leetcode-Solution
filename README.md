@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
