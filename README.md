@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0263-ugly-number) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
