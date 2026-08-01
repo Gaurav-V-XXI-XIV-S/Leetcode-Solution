@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0799-champagne-tower](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -527,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
