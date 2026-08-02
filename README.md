@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0148-sort-list) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0097-interleaving-string) |
