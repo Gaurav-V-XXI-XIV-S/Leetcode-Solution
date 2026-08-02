@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
