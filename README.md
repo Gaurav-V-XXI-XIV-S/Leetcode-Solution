@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0086-partition-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
