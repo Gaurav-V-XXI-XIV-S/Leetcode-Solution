@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -521,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -574,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0877-stone-game) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
