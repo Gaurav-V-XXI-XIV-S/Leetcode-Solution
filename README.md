@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0143-reorder-list) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
