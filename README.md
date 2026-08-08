@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
