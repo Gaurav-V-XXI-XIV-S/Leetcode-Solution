@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -629,9 +632,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
