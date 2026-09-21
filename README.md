@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gaurav-V-XXI-XIV-S/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
